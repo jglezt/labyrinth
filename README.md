@@ -25,5 +25,5 @@ To run the examples, run in terminal:
 ```
 
 ## References
-[1] Base code from: https://gist.github.com/clarkngo/eb3132769df2ca28919ab8e6054716a5
-[2] Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald L.; Stein, Clifford \(2001\), Introduction To Algorithms \(2nd ed.\), MIT Press, p. 978, ISBN 9780262032933.
+1. Base code from: https://gist.github.com/clarkngo/eb3132769df2ca28919ab8e6054716a5
+2. Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald L.; Stein, Clifford \(2001\), Introduction To Algorithms \(2nd ed.\), MIT Press, p. 978, ISBN 9780262032933.
